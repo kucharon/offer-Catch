@@ -50,3 +50,6 @@ Thumbs.db
 .superpowers/
 docs/superpowers/
 AGENTS.md
+
+# gh CLI local credentials
+.gh/
