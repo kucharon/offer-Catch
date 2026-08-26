@@ -10,7 +10,7 @@ from offercatch import __version__
 from offercatch.config import load_config
 
 console = Console()
-GITHUB_URL = "https://github.com/powerycy/OfferCatch"
+GITHUB_URL = "https://github.com/kucharon/offer-Catch"
 
 
 def _hint_web():

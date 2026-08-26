@@ -122,7 +122,7 @@ google-chrome --remote-debugging-port=9222 --user-data-dir="$HOME/.offercatch-ch
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/powerycy/OfferCatch.git
+git clone https://github.com/kucharon/offer-Catch.git
 cd OfferCatch
 
 # 2. 安装 Python 依赖

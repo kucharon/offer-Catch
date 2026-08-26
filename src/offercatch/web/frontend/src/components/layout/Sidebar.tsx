@@ -9,7 +9,7 @@ const navItems = [
   { to: '/config', icon: Settings, label: '配置' },
 ]
 
-const GITHUB_URL = 'https://github.com/powerycy/OfferCatch'
+const GITHUB_URL = 'https://github.com/kucharon/offer-Catch'
 
 interface SidebarProps {
   pendingReplies?: number
